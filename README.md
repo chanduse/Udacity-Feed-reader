@@ -74,6 +74,7 @@ When you're all finished, write a `README` file detailing all steps required to 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 
  --------------------------------------------------------------------------------------------------
+# Download the zip file and check output in chrome
  
 # I followed the below steps to complete the project
 
